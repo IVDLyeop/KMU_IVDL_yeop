@@ -31,3 +31,4 @@ A2017106 이상엽
             else:
                 distance_prob = 0
             return distance_prob
+![Markov_result](https://user-images.githubusercontent.com/80674433/111929862-e6965100-8afa-11eb-9665-22f33268969e.gif)
