@@ -8,7 +8,7 @@ A2017106 이상엽
 - 목표 기능:
 1) `Update_weights` : 각 Particle들의 가중치를 Predicted Measurment와 Lidar Measurment를 비교하여 업데이트      
 - 구현:
- def update_weights(self, sensor_range, std_landmark_x, std_landmark_y,
+ #def update_weights(self, sensor_range, std_landmark_x, std_landmark_y,
                        observations, map_landmarks):
         for p in self.particles:
         # 1. Select the set of landmarks that are visible
@@ -55,7 +55,7 @@ A2017106 이상엽
                 
 2) `Resampling` : 각 Particle들의 가중치에 비례하게 다음 Step에 사용할 Particle들을 선정      
 - 구현:          
-    def resample(self):
+    #def resample(self):
         weights_sum = []  
         for i in self.particles:  
             weights_sum += i['w']  
