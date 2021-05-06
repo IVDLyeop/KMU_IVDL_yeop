@@ -60,3 +60,5 @@ A2017106 이상엽
 	[' ' ' ' ' ' '#' ' ' ' ']
 	[' ' ' ' ' ' '#' ' ' ' ']
 
+## Reference code
+https://github.com/boranorben/vehicle-intelligence-2021
