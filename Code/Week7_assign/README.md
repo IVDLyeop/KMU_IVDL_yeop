@@ -1,4 +1,4 @@
-# Week 7 - Hybrid A*/PTG
+# Week 7 - Hybrid A*
 ---
 A2017106 이상엽
 
